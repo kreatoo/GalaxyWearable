@@ -1,11 +1,12 @@
 # Patched Galaxy Wearable
 This repo contains patched versions of Galaxy Wearable to work with custom roms on Samsung devices without spoofing the device name.
-You can download the apks from [Releases](https://github.com/Linux4/GalaxyWearable/releases)
+You can download the apks from [Releases](https://github.com/kreatoo/GalaxyWearable/releases)
 
 # Cheat Sheet
 * popcornmgr = Galaxy Buds+
 * atticmgr = Galaxy Buds Pro
 * berrymgr = Galaxy Buds2
+* zenithmgr = Galaxy Buds2 Pro
 * neobeanmgr = Galaxy Buds Live
 * watchmanager = Samsung Gear (main application)
 * waterplugin = Galaxy Watch4
